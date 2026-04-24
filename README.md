@@ -14,7 +14,9 @@ currently bunging my GitHub page<br>performatively larping<br>ask me about geome
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=P0RUS&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=P0RUS&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=P0RUS&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=P0RUS&style=flat-square)
+![](https://komarev.com/ghpvc/?username=P0RUS&abbreviated=true)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/P0RUSPay) 
