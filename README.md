@@ -20,15 +20,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P0RUS&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P0RUS&layout=compact&theme=omni&hide_border=true"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=P0RUS&theme=omni&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=P0RUS&theme=omni&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=P0RUS&theme=omni&hide_border=false" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=P0RUS&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ## 🚀 Current Project
 
