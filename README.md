@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Porus</h1>
+<h1 align="center">Hi 👋, I'm PORUS</h1>
 
 <p align="center">
   🚀 Building <b>Hermes</b> • 📚 Learning Machine Learning • 💻 Grinding LeetCode
