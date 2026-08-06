@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm P0RUS</h1>
 
 <p align="center">
-  🚀 Building <b>Hermes</b> • 📚 Learning Machine Learning • 💻 Grinding 
+  🚀 Building <b>Hermes</b> • 📚 Learning Machine Learning • 💻 Grinding Leetode
 </p>
 
 ---
